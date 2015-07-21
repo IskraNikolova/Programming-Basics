@@ -9,7 +9,7 @@ public class FloatOrDouble
 {
     public static void Main()
     {
-        decimal firstNumber = 34.567839023m;
+        double firstNumber = 34.567839023;
         float secondNumber = 12.345f;
         double thirdNumber = 8923.1234857;
         float fourNumber = 3456.091f;
