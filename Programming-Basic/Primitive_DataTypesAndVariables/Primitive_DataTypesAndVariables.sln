@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem18_Sunglasses", "Pro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem19_Nine-DigitMagicNumbers", "Problem19_Nine-DigitMagicNumbers\Problem19_Nine-DigitMagicNumbers.csproj", "{661F12B6-058C-4B30-9C76-DB94FB3B3D30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3_VariableInHexadecimalFormat", "Problem3_VariableInHexadecimalFormat\Problem3_VariableInHexadecimalFormat.csproj", "{4A643024-2FF1-4164-AC11-048613C6725B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{661F12B6-058C-4B30-9C76-DB94FB3B3D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{661F12B6-058C-4B30-9C76-DB94FB3B3D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{661F12B6-058C-4B30-9C76-DB94FB3B3D30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A643024-2FF1-4164-AC11-048613C6725B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A643024-2FF1-4164-AC11-048613C6725B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A643024-2FF1-4164-AC11-048613C6725B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A643024-2FF1-4164-AC11-048613C6725B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

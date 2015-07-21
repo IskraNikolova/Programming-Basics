@@ -4,3 +4,6 @@ F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem4_UnicodeCharacter\b
 F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem4_UnicodeCharacter\obj\Debug\Problem4_UnicodeCharacter.csprojResolveAssemblyReference.cache
 F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem4_UnicodeCharacter\obj\Debug\Problem4_UnicodeCharacter.exe
 F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem4_UnicodeCharacter\obj\Debug\Problem4_UnicodeCharacter.pdb
+F:\Git\Programming-Basic\Primitive_DataTypesAndVariables\Problem4_UnicodeCharacter\bin\Debug\Problem4_UnicodeCharacter.exe.config
+F:\Git\Programming-Basic\Primitive_DataTypesAndVariables\Problem4_UnicodeCharacter\obj\Debug\Problem4_UnicodeCharacter.exe
+F:\Git\Programming-Basic\Primitive_DataTypesAndVariables\Problem4_UnicodeCharacter\obj\Debug\Problem4_UnicodeCharacter.pdb
