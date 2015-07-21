@@ -1,0 +1,6 @@
+F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem10_EmployeeData\bin\Debug\Problem10_EmployeeData.exe.config
+F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem10_EmployeeData\bin\Debug\Problem10_EmployeeData.exe
+F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem10_EmployeeData\bin\Debug\Problem10_EmployeeData.pdb
+F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem10_EmployeeData\obj\Debug\Problem10_EmployeeData.csprojResolveAssemblyReference.cache
+F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem10_EmployeeData\obj\Debug\Problem10_EmployeeData.exe
+F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem10_EmployeeData\obj\Debug\Problem10_EmployeeData.pdb
