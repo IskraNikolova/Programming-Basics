@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem13_SumOfElements", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem14_NewHouse", "Problem14_NewHouse\Problem14_NewHouse.csproj", "{3FF8949B-729B-4D75-AD97-347430B632BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem15_MagicStrings", "Problem15_MagicStrings\Problem15_MagicStrings.csproj", "{B0795C03-568A-42D3-B351-3F645C6D3A19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{3FF8949B-729B-4D75-AD97-347430B632BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FF8949B-729B-4D75-AD97-347430B632BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FF8949B-729B-4D75-AD97-347430B632BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0795C03-568A-42D3-B351-3F645C6D3A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0795C03-568A-42D3-B351-3F645C6D3A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0795C03-568A-42D3-B351-3F645C6D3A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0795C03-568A-42D3-B351-3F645C6D3A19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
