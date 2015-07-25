@@ -7,19 +7,29 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1_SumOf3Numbers", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2_PrintCompanyInformation", "Problem2_PrintCompanyInformation\Problem2_PrintCompanyInformation.csproj", "{09ED81F8-0D75-42C9-BF31-15BA4CD5ED43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program3_CirclePerimeterAndArea", "Program3_CirclePerimeterAndArea\Program3_CirclePerimeterAndArea.csproj", "{80C00A41-035B-4542-B58D-1F67AAABF8D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3_CirclePerimeterAndArea", "Program3_CirclePerimeterAndArea\Problem3_CirclePerimeterAndArea.csproj", "{80C00A41-035B-4542-B58D-1F67AAABF8D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program4_NumberComparer", "Program4_NumberComparer\Program4_NumberComparer.csproj", "{79B48398-57C7-472C-BC69-F96C36A6FC46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem4_NumberComparer", "Program4_NumberComparer\Problem4_NumberComparer.csproj", "{79B48398-57C7-472C-BC69-F96C36A6FC46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program5_FormattingNumbers", "Program5_FormattingNumbers\Program5_FormattingNumbers.csproj", "{7A469A27-228D-4331-BAFF-7DE2328910CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem5_FormattingNumbers", "Program5_FormattingNumbers\Problem5_FormattingNumbers.csproj", "{7A469A27-228D-4331-BAFF-7DE2328910CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program6_QuadraticEquation", "Program6_QuadraticEquation\Program6_QuadraticEquation.csproj", "{B2ED8776-DEA5-4C31-B9C9-87644F95F416}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem6_QuadraticEquation", "Program6_QuadraticEquation\Problem6_QuadraticEquation.csproj", "{B2ED8776-DEA5-4C31-B9C9-87644F95F416}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program7_SumOf5Numbers", "Program7_SumOf5Numbers\Program7_SumOf5Numbers.csproj", "{1340E5A2-B93D-43A9-9635-7DC9F796E73A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem7_SumOf5Numbers", "Program7_SumOf5Numbers\Problem7_SumOf5Numbers.csproj", "{1340E5A2-B93D-43A9-9635-7DC9F796E73A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program8_NumbersFrom1ToN", "Program8_NumbersFrom1ToN\Program8_NumbersFrom1ToN.csproj", "{9C8C87FB-26CA-4A94-A101-B5649EF2A708}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem8_NumbersFrom1ToN", "Program8_NumbersFrom1ToN\Problem8_NumbersFrom1ToN.csproj", "{9C8C87FB-26CA-4A94-A101-B5649EF2A708}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program9_SumOfN_Numbers", "Program9_SumOfN-Numbers\Program9_SumOfN_Numbers.csproj", "{38858CD0-3488-462A-9B55-A80EEDB6A072}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_SumOfN_Numbers", "Program9_SumOfN-Numbers\Problem9_SumOfN_Numbers.csproj", "{38858CD0-3488-462A-9B55-A80EEDB6A072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem10_FibonacciNumbers", "Program10_FibonacciNumbers\Problem10_FibonacciNumbers.csproj", "{6E925FCB-D5F4-4A0F-A003-755F75957C3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem11_NumbersInIntervalDividableByGivenNumber", "Problem11_NumbersInIntervalDividableByGivenNumber\Problem11_NumbersInIntervalDividableByGivenNumber.csproj", "{44A2AC2B-3518-41D8-AC69-ACE9C0CA2D75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem12_WorkHours", "Problem12_WorkHours\Problem12_WorkHours.csproj", "{AF59F343-C686-4CCF-AE30-67C7BD204420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem13_SumOfElements", "Problem13_SumOfElements\Problem13_SumOfElements.csproj", "{8E2646A3-6456-4582-A597-E821091D88A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem14_NewHouse", "Problem14_NewHouse\Problem14_NewHouse.csproj", "{3FF8949B-729B-4D75-AD97-347430B632BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +73,26 @@ Global
 		{38858CD0-3488-462A-9B55-A80EEDB6A072}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38858CD0-3488-462A-9B55-A80EEDB6A072}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38858CD0-3488-462A-9B55-A80EEDB6A072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E925FCB-D5F4-4A0F-A003-755F75957C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E925FCB-D5F4-4A0F-A003-755F75957C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E925FCB-D5F4-4A0F-A003-755F75957C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E925FCB-D5F4-4A0F-A003-755F75957C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A2AC2B-3518-41D8-AC69-ACE9C0CA2D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A2AC2B-3518-41D8-AC69-ACE9C0CA2D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A2AC2B-3518-41D8-AC69-ACE9C0CA2D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A2AC2B-3518-41D8-AC69-ACE9C0CA2D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF59F343-C686-4CCF-AE30-67C7BD204420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF59F343-C686-4CCF-AE30-67C7BD204420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF59F343-C686-4CCF-AE30-67C7BD204420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF59F343-C686-4CCF-AE30-67C7BD204420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E2646A3-6456-4582-A597-E821091D88A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2646A3-6456-4582-A597-E821091D88A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2646A3-6456-4582-A597-E821091D88A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2646A3-6456-4582-A597-E821091D88A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF8949B-729B-4D75-AD97-347430B632BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF8949B-729B-4D75-AD97-347430B632BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF8949B-729B-4D75-AD97-347430B632BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF8949B-729B-4D75-AD97-347430B632BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
