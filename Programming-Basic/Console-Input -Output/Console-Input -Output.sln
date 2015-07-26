@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem14_NewHouse", "Probl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem15_MagicStrings", "Problem15_MagicStrings\Problem15_MagicStrings.csproj", "{B0795C03-568A-42D3-B351-3F645C6D3A19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem16_CatchTheBits", "Problem16_CatchTheBits\Problem16_CatchTheBits.csproj", "{5CDB6EEB-2CDA-400C-B793-6C171E00191F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{B0795C03-568A-42D3-B351-3F645C6D3A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0795C03-568A-42D3-B351-3F645C6D3A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0795C03-568A-42D3-B351-3F645C6D3A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CDB6EEB-2CDA-400C-B793-6C171E00191F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CDB6EEB-2CDA-400C-B793-6C171E00191F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CDB6EEB-2CDA-400C-B793-6C171E00191F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CDB6EEB-2CDA-400C-B793-6C171E00191F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
