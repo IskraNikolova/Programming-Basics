@@ -1,5 +1,0 @@
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem12_NullValuesArithmetic\bin\Debug\Problem12_NullValuesArithmetic.exe.config
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem12_NullValuesArithmetic\bin\Debug\Problem12_NullValuesArithmetic.exe
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem12_NullValuesArithmetic\bin\Debug\Problem12_NullValuesArithmetic.pdb
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem12_NullValuesArithmetic\obj\Debug\Problem12_NullValuesArithmetic.exe
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem12_NullValuesArithmetic\obj\Debug\Problem12_NullValuesArithmetic.pdb

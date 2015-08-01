@@ -1,5 +1,0 @@
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem7_QuotesInStrings\bin\Debug\Problem7_QuotesInStrings.exe.config
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem7_QuotesInStrings\bin\Debug\Problem7_QuotesInStrings.exe
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem7_QuotesInStrings\bin\Debug\Problem7_QuotesInStrings.pdb
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem7_QuotesInStrings\obj\Debug\Problem7_QuotesInStrings.exe
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem7_QuotesInStrings\obj\Debug\Problem7_QuotesInStrings.pdb

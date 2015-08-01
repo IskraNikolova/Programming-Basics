@@ -1,6 +1,0 @@
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem19_Nine-DigitMagicNumbers\bin\Debug\Problem19_Nine-DigitMagicNumbers.exe.config
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem19_Nine-DigitMagicNumbers\bin\Debug\Problem19_Nine-DigitMagicNumbers.exe
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem19_Nine-DigitMagicNumbers\bin\Debug\Problem19_Nine-DigitMagicNumbers.pdb
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem19_Nine-DigitMagicNumbers\obj\Debug\Problem19_Nine-DigitMagicNumbers.csprojResolveAssemblyReference.cache
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem19_Nine-DigitMagicNumbers\obj\Debug\Problem19_Nine-DigitMagicNumbers.exe
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem19_Nine-DigitMagicNumbers\obj\Debug\Problem19_Nine-DigitMagicNumbers.pdb

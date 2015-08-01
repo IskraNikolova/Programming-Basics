@@ -1,6 +1,0 @@
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem20_BitsInverter\bin\Debug\Problem20_BitsInverter.exe.config
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem20_BitsInverter\bin\Debug\Problem20_BitsInverter.exe
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem20_BitsInverter\bin\Debug\Problem20_BitsInverter.pdb
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem20_BitsInverter\obj\Debug\Problem20_BitsInverter.csprojResolveAssemblyReference.cache
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem20_BitsInverter\obj\Debug\Problem20_BitsInverter.exe
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem20_BitsInverter\obj\Debug\Problem20_BitsInverter.pdb

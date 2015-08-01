@@ -1,6 +1,0 @@
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem8_IsoscelesTriangle\bin\Debug\Problem8_IsoscelesTriangle.exe.config
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem8_IsoscelesTriangle\bin\Debug\Problem8_IsoscelesTriangle.exe
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem8_IsoscelesTriangle\bin\Debug\Problem8_IsoscelesTriangle.pdb
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem8_IsoscelesTriangle\obj\Debug\Problem8_IsoscelesTriangle.exe
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem8_IsoscelesTriangle\obj\Debug\Problem8_IsoscelesTriangle.pdb
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem8_IsoscelesTriangle\obj\Debug\Problem8_IsoscelesTriangle.csprojResolveAssemblyReference.cache

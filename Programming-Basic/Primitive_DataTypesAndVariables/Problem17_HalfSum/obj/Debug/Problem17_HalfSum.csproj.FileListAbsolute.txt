@@ -1,5 +1,0 @@
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem17_HalfSum\bin\Debug\Problem17_HalfSum.exe.config
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem17_HalfSum\bin\Debug\Problem17_HalfSum.exe
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem17_HalfSum\bin\Debug\Problem17_HalfSum.pdb
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem17_HalfSum\obj\Debug\Problem17_HalfSum.exe
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem17_HalfSum\obj\Debug\Problem17_HalfSum.pdb

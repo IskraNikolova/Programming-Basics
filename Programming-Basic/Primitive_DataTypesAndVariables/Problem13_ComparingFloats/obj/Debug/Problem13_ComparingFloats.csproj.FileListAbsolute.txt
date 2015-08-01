@@ -1,5 +1,0 @@
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem13_ComparingFloats\bin\Debug\Problem13_ComparingFloats.exe.config
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem13_ComparingFloats\bin\Debug\Problem13_ComparingFloats.exe
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem13_ComparingFloats\bin\Debug\Problem13_ComparingFloats.pdb
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem13_ComparingFloats\obj\Debug\Problem13_ComparingFloats.exe
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem13_ComparingFloats\obj\Debug\Problem13_ComparingFloats.pdb

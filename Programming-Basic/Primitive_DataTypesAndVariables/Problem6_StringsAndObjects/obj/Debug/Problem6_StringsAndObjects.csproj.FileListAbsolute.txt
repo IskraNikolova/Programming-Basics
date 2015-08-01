@@ -1,5 +1,0 @@
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem6_StringsAndObjects\bin\Debug\Problem6_StringsAndObjects.exe.config
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem6_StringsAndObjects\bin\Debug\Problem6_StringsAndObjects.exe
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem6_StringsAndObjects\bin\Debug\Problem6_StringsAndObjects.pdb
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem6_StringsAndObjects\obj\Debug\Problem6_StringsAndObjects.exe
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem6_StringsAndObjects\obj\Debug\Problem6_StringsAndObjects.pdb

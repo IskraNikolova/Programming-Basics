@@ -1,5 +1,0 @@
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem11_BankAccountData\bin\Debug\Problem11_BankAccountData.exe.config
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem11_BankAccountData\bin\Debug\Problem11_BankAccountData.exe
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem11_BankAccountData\bin\Debug\Problem11_BankAccountData.pdb
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem11_BankAccountData\obj\Debug\Problem11_BankAccountData.exe
-F:\Programming-Basic\Primitive_DataTypesAndVariables\Problem11_BankAccountData\obj\Debug\Problem11_BankAccountData.pdb
