@@ -12,9 +12,13 @@ public class ExchangeIfGreater
         double firstInteger = double.Parse(Console.ReadLine());
         double secondInteger = double.Parse(Console.ReadLine());
 
-        if (firstInteger > secondInteger)
+        if (firstInteger < secondInteger)
         {
-            Console.WriteLine(;
+            Console.WriteLine("{0} {1}", firstInteger, secondInteger);
+        }
+        else
+        {
+            Console.WriteLine("{0} {1}", secondInteger, firstInteger);
         }
     }
 }
