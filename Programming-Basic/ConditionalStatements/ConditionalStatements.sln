@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9-PlayWithIntDoubleA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem10-BeerTime", "Problem10-BeerTime\Problem10-BeerTime.csproj", "{FBDE00E2-03BC-4717-A462-C9973D7B31EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem11-NumberAsWords", "Problem11-NumberAsWords\Problem11-NumberAsWords.csproj", "{11A0BA4E-0C6A-4E56-B410-4BDBF5592F88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{FBDE00E2-03BC-4717-A462-C9973D7B31EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBDE00E2-03BC-4717-A462-C9973D7B31EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBDE00E2-03BC-4717-A462-C9973D7B31EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A0BA4E-0C6A-4E56-B410-4BDBF5592F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A0BA4E-0C6A-4E56-B410-4BDBF5592F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A0BA4E-0C6A-4E56-B410-4BDBF5592F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A0BA4E-0C6A-4E56-B410-4BDBF5592F88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
