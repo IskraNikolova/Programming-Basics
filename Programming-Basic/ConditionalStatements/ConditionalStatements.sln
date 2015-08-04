@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem11-NumberAsWords", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem12-ZeroSubset", "Problem12-ZeroSubset\Problem12-ZeroSubset.csproj", "{5D32F099-FE86-49A4-9196-180B1C06EDC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem13-Triangle", "Problem13-Triangle\Problem13-Triangle.csproj", "{3D3EA7C9-F4E6-44B4-A734-5551D77DF46C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{5D32F099-FE86-49A4-9196-180B1C06EDC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D32F099-FE86-49A4-9196-180B1C06EDC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D32F099-FE86-49A4-9196-180B1C06EDC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D3EA7C9-F4E6-44B4-A734-5551D77DF46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D3EA7C9-F4E6-44B4-A734-5551D77DF46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D3EA7C9-F4E6-44B4-A734-5551D77DF46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D3EA7C9-F4E6-44B4-A734-5551D77DF46C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
