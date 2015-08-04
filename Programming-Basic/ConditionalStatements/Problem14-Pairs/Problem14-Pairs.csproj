@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3D3EA7C9-F4E6-44B4-A734-5551D77DF46C}</ProjectGuid>
+    <ProjectGuid>{A293C73F-8E1B-4FED-91E8-3229B3E03219}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Problem13_Triangle</RootNamespace>
-    <AssemblyName>Problem13-Triangle</AssemblyName>
+    <RootNamespace>Problem14_Pairs</RootNamespace>
+    <AssemblyName>Problem14-Pairs</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Triangle.cs" />
+    <Compile Include="Pairs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
