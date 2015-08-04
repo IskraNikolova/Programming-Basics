@@ -28,7 +28,7 @@ public class Pairs
 
         if (countEqualsSum.Equals(maxCountEqualsSum))
         {
-            Console.WriteLine("Yes, value={0}", difference[0]);
+            Console.WriteLine("Yes, value={0}", sum2);
         }
         else
         {
