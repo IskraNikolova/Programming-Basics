@@ -92,21 +92,6 @@ public class ZeroSubset
             Console.WriteLine("{0} + {1} + {2} = 0", a, d, e);
         }
 
-        if (b + c == 0)
-        {
-            Console.WriteLine("{0} + {1} = 0", b, c);
-        }
-
-        if (b + d == 0)
-        {
-            Console.WriteLine("{0} + {1} = 0", b, d);
-        }
-
-        if (b + e == 0)
-        {
-            Console.WriteLine("{0} + {1} = 0", b, e);
-        }
-
         if (b + c + d == 0)
         {
             Console.WriteLine("{0} + {1} + {2} = 0", b, c, d);
@@ -122,25 +107,12 @@ public class ZeroSubset
             Console.WriteLine("{0} + {1} + {2} = 0", b, d, e);
         }
 
-        if (c + d == 0)
-        {
-            Console.WriteLine("{0} + {1} = 0", c, d);
-        }
-
-        if (c + e == 0)
-        {
-            Console.WriteLine("{0} + {1} = 0", c, e);
-        }
 
         if (c + d + e == 0)
         {
             Console.WriteLine("{0} + {1} + {2} = 0", c, d, e);
         }
 
-        if (d + e == 0)
-        {
-            Console.WriteLine("{0} + {1} = 0", d, e);
-        }
 
         if (a + b + c + d == 0)
         {
@@ -171,10 +143,12 @@ public class ZeroSubset
         {
             Console.WriteLine("{0} + {1} + {2} + {3} + {4} = 0", a, b, c, d, e);
         }
-            
+
         else
             Console.WriteLine("no zero subset");
-        //Hint: you may check for zero each of the 32 subsets with 32 if statements.
     }
 }
+
+
+
 
