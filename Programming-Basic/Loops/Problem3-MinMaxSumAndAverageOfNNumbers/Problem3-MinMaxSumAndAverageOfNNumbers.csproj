@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E9948F29-2EC7-4151-B090-1074CEE1B0A3}</ProjectGuid>
+    <ProjectGuid>{3BED12B1-F190-4C6A-8AA4-B803C0F047E8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Problem3_MinMaxSumAndAverageOfNNumbers</RootNamespace>

@@ -12,7 +12,7 @@ public class NumbersFrom1ToN
 
         for (int number = 1; number <= lengthForLoop; number++)
         {
-            Console.Write(number + " ");
+            Console.Write("{0} ", number);
         }
     }
 }

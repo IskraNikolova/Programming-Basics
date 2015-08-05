@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1-NumbersFrom1ToN", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2-NumbersNotDivisibleBy3And7", "Problem2-NumbersNotDivisibleBy3And7\Problem2-NumbersNotDivisibleBy3And7.csproj", "{A510778D-E585-4E57-BCB4-4B43616CED79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3-MinMaxSumAndAverageOfNNumbers", "Problem3-MinMaxSumAndAverageOfNNumbers\Problem3-MinMaxSumAndAverageOfNNumbers.csproj", "{3BED12B1-F190-4C6A-8AA4-B803C0F047E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A510778D-E585-4E57-BCB4-4B43616CED79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A510778D-E585-4E57-BCB4-4B43616CED79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A510778D-E585-4E57-BCB4-4B43616CED79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BED12B1-F190-4C6A-8AA4-B803C0F047E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BED12B1-F190-4C6A-8AA4-B803C0F047E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BED12B1-F190-4C6A-8AA4-B803C0F047E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BED12B1-F190-4C6A-8AA4-B803C0F047E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
