@@ -25,7 +25,7 @@ public class CalculateNK
             }
         }
 
-        double result = factorialN/factorialK;
+        double result = factorialN / factorialK;
         Console.WriteLine((int)result);
     }
 }

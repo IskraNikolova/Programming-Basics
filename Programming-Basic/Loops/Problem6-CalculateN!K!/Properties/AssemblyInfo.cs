@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CalculateN!K!")]
+[assembly: AssemblyTitle("Problem6-CalculateN!K!")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CalculateN!K!")]
+[assembly: AssemblyProduct("Problem6-CalculateN!K!")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("31df187b-5659-485b-87a1-0b5804e52e63")]
+[assembly: Guid("4f45e803-4ced-4bac-9b77-4c0eea65085d")]
 
 // Version information for an assembly consists of the following four values:
 //
