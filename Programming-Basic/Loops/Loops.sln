@@ -11,7 +11,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3-MinMaxSumAndAverag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem4-PrintADeckOf52Cards", "Problem4-PrintADeckOf52Cards\Problem4-PrintADeckOf52Cards.csproj", "{E8715F67-17FD-4771-B410-234982869EF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem5-CalculateTheSum", "Problem5-CalculateTheSum\Problem5-CalculateTheSum.csproj", "{6EAE3B81-F288-4A75-9E83-C07E9AD40503}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem5-CalculateTheSumWithFactorialFormula", "Problem5-CalculateTheSum\Problem5-CalculateTheSumWithFactorialFormula.csproj", "{6EAE3B81-F288-4A75-9E83-C07E9AD40503}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem6-CalculateN!K!", "CalculateN!K!\Problem6-CalculateN!K!.csproj", "{31DF187B-5659-485B-87A1-0B5804E52E63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem7-CalculateCombinations", "Problem7-CalculateCombinations\Problem7-CalculateCombinations.csproj", "{9936BC07-5454-4F38-9A41-E9F6E9186B17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{6EAE3B81-F288-4A75-9E83-C07E9AD40503}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EAE3B81-F288-4A75-9E83-C07E9AD40503}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EAE3B81-F288-4A75-9E83-C07E9AD40503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31DF187B-5659-485B-87A1-0B5804E52E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31DF187B-5659-485B-87A1-0B5804E52E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31DF187B-5659-485B-87A1-0B5804E52E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31DF187B-5659-485B-87A1-0B5804E52E63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9936BC07-5454-4F38-9A41-E9F6E9186B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9936BC07-5454-4F38-9A41-E9F6E9186B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9936BC07-5454-4F38-9A41-E9F6E9186B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9936BC07-5454-4F38-9A41-E9F6E9186B17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
