@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem12-RandomizeTheNumbe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem13-BinaryToDecimalNumber", "Problem13-BinaryToDecimalNumber\Problem13-BinaryToDecimalNumber.csproj", "{36930533-A479-4B43-989B-8D7ABD4C925E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem14-DecimalToBinaryNumber", "Problem14-DecimalToBinaryNumber\Problem14-DecimalToBinaryNumber.csproj", "{15D20E5B-86FA-440E-B7A3-A5D106003000}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{36930533-A479-4B43-989B-8D7ABD4C925E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36930533-A479-4B43-989B-8D7ABD4C925E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36930533-A479-4B43-989B-8D7ABD4C925E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15D20E5B-86FA-440E-B7A3-A5D106003000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D20E5B-86FA-440E-B7A3-A5D106003000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D20E5B-86FA-440E-B7A3-A5D106003000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D20E5B-86FA-440E-B7A3-A5D106003000}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
