@@ -31,8 +31,8 @@ public class DecimalToBinaryNumber
         {
             Console.Write(binaryNumber[i - 1]);
         }
+
         Console.WriteLine();
-        
     }
 }
 
