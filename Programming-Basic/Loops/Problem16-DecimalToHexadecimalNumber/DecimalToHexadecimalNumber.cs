@@ -1,15 +1,19 @@
 ﻿using System;
 
-
 public class DecimalToHexadecimal
 {
+    /// <summary>
+    /// Using loops write a program that converts an integer number to its hexadecimal representation. 
+    /// The input is entered as long. The output should be a variable of type string. Do not use 
+    /// the built-in .NET functionality. 
+    /// </summary>
     public static void Main()
     {
-        int decimalToHexadecimal = int.Parse(Console.ReadLine());
+        long decimalToHexadecimal = long.Parse(Console.ReadLine());
         ToHexadecimal(decimalToHexadecimal);
         Console.ReadKey();
     }
-    static void ToHexadecimal(int decimalToHex)
+    static void ToHexadecimal(long decimalToHex)
     {
         if (decimalToHex == 0)
         {
@@ -18,7 +22,7 @@ public class DecimalToHexadecimal
          
          else
         {
-            int rest = decimalToHex % 16;
+            long rest = decimalToHex % 16;
             decimalToHex /= 16;
             ToHexadecimal(decimalToHex);
 
