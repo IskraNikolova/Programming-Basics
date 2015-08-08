@@ -8,7 +8,9 @@ public class MatrixOfNumber
     /// </summary>
     public static void Main()
     {
+        Console.Write("Please write a matrix size: ");
         int matrixSize = int.Parse(Console.ReadLine());
+
         int endIndex = matrixSize;
 
         for (int row = 1; row <= matrixSize; row++)
