@@ -8,6 +8,7 @@ public class NumbersNotDivisibleBy3And7
     /// </summary>
     public static void Main()
     {
+        Console.WriteLine("Write a number: ");
         int lengthForLoop = int.Parse(Console.ReadLine());
 
         for (int number = 0; number < lengthForLoop; number++)
