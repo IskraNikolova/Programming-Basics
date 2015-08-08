@@ -48,7 +48,7 @@ public class HexadecimalToDecimalNumber
             sum += numbers[index]*Math.Pow(16, i - 1);
         }
 
-        Console.WriteLine(sum);
+        Console.WriteLine((long)sum);
     }
 }
 
