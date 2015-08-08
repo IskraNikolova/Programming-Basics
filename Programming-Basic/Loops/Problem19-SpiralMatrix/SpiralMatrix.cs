@@ -8,7 +8,7 @@ public class SpiralMatrix
     /// </summary>
     public static void Main()
     {
-        Console.WriteLine("n= ");
+        Console.WriteLine("n = ");
         int matrixSize = int.Parse(Console.ReadLine());
 
         int[,] matrix = new int[matrixSize,matrixSize];
