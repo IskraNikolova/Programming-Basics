@@ -9,6 +9,7 @@ public class OddAndEvenProduct
     /// </summary>
     public static void Main()
     {
+        Console.WriteLine("Please write a numbers with space!");
         int[] collectionOfInputNumbers = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 
         int oddProduct = 1;
