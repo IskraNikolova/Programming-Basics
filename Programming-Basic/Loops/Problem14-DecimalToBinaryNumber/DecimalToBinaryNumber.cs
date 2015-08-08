@@ -10,7 +10,9 @@ public class DecimalToBinaryNumber
     /// </summary>
     public static void Main()
     {
+        Console.WriteLine("Please write a decimal number!");
         long decimalToBinaryNum = long.Parse(Console.ReadLine());
+
         List<string> binaryNumber = new List<string>();
 
         while (decimalToBinaryNum != 0)
