@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem17-CalculateGCD", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem18-TrailingZeroesInN", "Problem18-TrailingZeroesInN\Problem18-TrailingZeroesInN.csproj", "{F4636205-E2B4-423A-A9AE-5EBCC32B77B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem19-SpiralMatrix", "Problem19-SpiralMatrix\Problem19-SpiralMatrix.csproj", "{411885E7-4A17-4A6D-A913-8C66625511F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{F4636205-E2B4-423A-A9AE-5EBCC32B77B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4636205-E2B4-423A-A9AE-5EBCC32B77B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4636205-E2B4-423A-A9AE-5EBCC32B77B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{411885E7-4A17-4A6D-A913-8C66625511F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{411885E7-4A17-4A6D-A913-8C66625511F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{411885E7-4A17-4A6D-A913-8C66625511F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{411885E7-4A17-4A6D-A913-8C66625511F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
