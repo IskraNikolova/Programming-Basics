@@ -11,6 +11,7 @@ public class DecimalToHexadecimal
     {
         Console.Write("Please write decimal number: ");
         long decimalToHexadecimal = long.Parse(Console.ReadLine());
+
         ToHexadecimal(decimalToHexadecimal);
         Console.ReadKey();
     }
