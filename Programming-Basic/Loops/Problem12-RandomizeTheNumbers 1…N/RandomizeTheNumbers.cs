@@ -8,6 +8,7 @@ public class RandomizeTheNumbers
     /// </summary>
     public static void Main()
     {
+        Console.Write("n = ");
         int lengthOfCollection = int.Parse(Console.ReadLine());
 
         int[] collectionOfNumbers = new int[lengthOfCollection];
