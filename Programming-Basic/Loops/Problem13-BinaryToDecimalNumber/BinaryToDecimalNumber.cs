@@ -10,6 +10,7 @@ public class BinaryToDecimalNumber
     {
         Console.WriteLine("Enter a Binary number:");
         string binaryNumber = Console.ReadLine();
+
         byte[] binarics = new byte[binaryNumber.Length];
         for (int i = 0; i < binaryNumber.Length; i++)
         {
