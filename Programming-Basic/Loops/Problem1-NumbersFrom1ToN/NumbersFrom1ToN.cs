@@ -8,6 +8,7 @@ public class NumbersFrom1ToN
     /// </summary>
     public static void Main()
     {
+        Console.Write("Please write a number: ");
         int lengthForLoop = int.Parse(Console.ReadLine());
 
         for (int number = 1; number <= lengthForLoop; number++)
