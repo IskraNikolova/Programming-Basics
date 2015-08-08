@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem19-SpiralMatrix", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem21-OddOrEvenElements", "Problem21-OddOrEvenElements\Problem21-OddOrEvenElements.csproj", "{411A91E2-9B5C-4888-8C05-1AF93307CE9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem22-Arrow", "Problem22-Arrow\Problem22-Arrow.csproj", "{D0D1FCC3-712B-4731-8BBB-81D3F721E783}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{411A91E2-9B5C-4888-8C05-1AF93307CE9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{411A91E2-9B5C-4888-8C05-1AF93307CE9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{411A91E2-9B5C-4888-8C05-1AF93307CE9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D1FCC3-712B-4731-8BBB-81D3F721E783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D1FCC3-712B-4731-8BBB-81D3F721E783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D1FCC3-712B-4731-8BBB-81D3F721E783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D1FCC3-712B-4731-8BBB-81D3F721E783}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
