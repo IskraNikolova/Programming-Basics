@@ -9,6 +9,7 @@ public class TrailingZeroesInN
     /// </summary>
     public static void Main()
     {
+        Console.Write("n = ");
         int n = int.Parse(Console.ReadLine());
 
         BigInteger factorial = n;
