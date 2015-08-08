@@ -10,6 +10,7 @@ public class HexadecimalToDecimalNumber
     /// </summary>
     public static void Main()
     {
+        Console.WriteLine("Please write a hexadecimal number!");
         string hexadecimal = Console.ReadLine();
 
         List<int> numbers = new List<int>();
