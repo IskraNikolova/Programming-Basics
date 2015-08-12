@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem7-JoinLists", "Probl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem8-LongestWordInAText", "Problem8-LongestWordInAText\Problem8-LongestWordInAText.csproj", "{2043402C-CA60-4E70-B276-76E2F460A4F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9-ExtractURLsFromText", "Problem9-ExtractURLsFromText\Problem9-ExtractURLsFromText.csproj", "{2037877D-BFC3-48EA-AC09-9925BF995DBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{2043402C-CA60-4E70-B276-76E2F460A4F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2043402C-CA60-4E70-B276-76E2F460A4F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2043402C-CA60-4E70-B276-76E2F460A4F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2037877D-BFC3-48EA-AC09-9925BF995DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2037877D-BFC3-48EA-AC09-9925BF995DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2037877D-BFC3-48EA-AC09-9925BF995DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2037877D-BFC3-48EA-AC09-9925BF995DBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
