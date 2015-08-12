@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem4-MatrixOfPalindrome
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem6-RemoveNames", "Problem6-RemoveNames\Problem6-RemoveNames.csproj", "{0D0C7FDD-6078-4EC6-B9F4-5372269D2F1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem7-JoinLists", "Problem7-JoinLists\Problem7-JoinLists.csproj", "{B7AECB0A-76D0-45D8-894F-E7D5884B52CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0D0C7FDD-6078-4EC6-B9F4-5372269D2F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D0C7FDD-6078-4EC6-B9F4-5372269D2F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D0C7FDD-6078-4EC6-B9F4-5372269D2F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7AECB0A-76D0-45D8-894F-E7D5884B52CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7AECB0A-76D0-45D8-894F-E7D5884B52CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7AECB0A-76D0-45D8-894F-E7D5884B52CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7AECB0A-76D0-45D8-894F-E7D5884B52CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

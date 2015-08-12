@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0D0C7FDD-6078-4EC6-B9F4-5372269D2F1B}</ProjectGuid>
+    <ProjectGuid>{B7AECB0A-76D0-45D8-894F-E7D5884B52CB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Problem6_RemoveNames</RootNamespace>
-    <AssemblyName>Problem6-RemoveNames</AssemblyName>
+    <RootNamespace>Problem7_JoinLists</RootNamespace>
+    <AssemblyName>Problem7-JoinLists</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="RemoveNames.cs" />
+    <Compile Include="JoinList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
