@@ -5,7 +5,7 @@ public class InsideTheBuilding
     public static void Main()
     {
         const int countOfPoint = 5;
-        
+
         int h = int.Parse(Console.ReadLine());
         for (int i = 0; i < countOfPoint; i++)
         {
