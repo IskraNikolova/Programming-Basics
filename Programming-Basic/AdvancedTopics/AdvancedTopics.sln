@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem8-LongestWordInAText
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9-ExtractURLsFromText", "Problem9-ExtractURLsFromText\Problem9-ExtractURLsFromText.csproj", "{2037877D-BFC3-48EA-AC09-9925BF995DBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9-InsideTheBuilding", "Problem9-InsideTheBuilding\Problem9-InsideTheBuilding.csproj", "{7DC7B5A7-240E-435C-A351-E8751D2B22BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem10-InsideTheBuilding", "Problem9-InsideTheBuilding\Problem10-InsideTheBuilding.csproj", "{7DC7B5A7-240E-435C-A351-E8751D2B22BF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem11-ProgrammerDNA", "Problem11-ProgrammerDNA\Problem11-ProgrammerDNA.csproj", "{F720A6F1-2725-4789-A481-EED87368C269}"
 EndProject
