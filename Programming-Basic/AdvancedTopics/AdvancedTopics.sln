@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9-ExtractURLsFromTex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9-InsideTheBuilding", "Problem9-InsideTheBuilding\Problem9-InsideTheBuilding.csproj", "{7DC7B5A7-240E-435C-A351-E8751D2B22BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem11-ProgrammerDNA", "Problem11-ProgrammerDNA\Problem11-ProgrammerDNA.csproj", "{F720A6F1-2725-4789-A481-EED87368C269}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{7DC7B5A7-240E-435C-A351-E8751D2B22BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DC7B5A7-240E-435C-A351-E8751D2B22BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DC7B5A7-240E-435C-A351-E8751D2B22BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F720A6F1-2725-4789-A481-EED87368C269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F720A6F1-2725-4789-A481-EED87368C269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F720A6F1-2725-4789-A481-EED87368C269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F720A6F1-2725-4789-A481-EED87368C269}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
