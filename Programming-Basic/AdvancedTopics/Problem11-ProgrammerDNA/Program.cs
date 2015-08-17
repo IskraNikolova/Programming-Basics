@@ -4,7 +4,7 @@ class ProgrammerDNA
 {
     static void Main()
     {
-        int totalLength = int.Parse(Console.ReadLine());
+        int length = int.Parse(Console.ReadLine());
         char printChar = char.Parse(Console.ReadLine());
 
         char spaceChar = '.';
@@ -14,7 +14,7 @@ class ProgrammerDNA
         int diff = 0;
         int diffCounter = 0;
 
-        for (int counter = 0; counter < totalLength; counter++)
+        for (int counter = 0; counter < length; counter++)
         {
             for (int i = 0; i < blockSize; i++)
             {
